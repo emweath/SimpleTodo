@@ -1,3 +1,4 @@
+![SimpleTodo](https://user-images.githubusercontent.com/77397034/130889705-a0516104-d9ea-4d5a-8d23-6e071b51fb9b.gif)
 # Project 1 - SimpleToDO
 
 SimpleToDo is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
@@ -26,6 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![SimpleTodo](https://user-images.githubusercontent.com/77397034/130889732-e87ee20b-0902-4241-8925-8a383d9e6b61.gif)
 
 
 ## Notes
